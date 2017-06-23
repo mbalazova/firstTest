@@ -16,6 +16,7 @@ public class Runner {
      */
     public static void main(String[] args) {
         System.out.println("hello hello");
+        System.out.println("this is another println()");
     }
     
 }
